@@ -1,4 +1,5 @@
 import { useState } from "react";
+import React from "react";
 
 export class Jamer extends React.Component {
 
