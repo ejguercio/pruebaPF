@@ -1,13 +1,8 @@
-import css from "./Edgar.module.css"
-
 const Edgar = () => {
     
     return <>
-    <div className={css.container}>
-
-        <h1 className={css.title}>Componente Edgar</h1>
-
-    </div>
+        <h1 >Componente Edgar</h1>
+        <h2>componente modificado prueba</h2>
     </>
 };
 export default Edgar
