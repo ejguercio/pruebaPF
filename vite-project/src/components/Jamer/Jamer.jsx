@@ -5,7 +5,7 @@ export class Jamer extends React.Component {
 
     constructor() { };
 
-    console.log('jajaja te gane')
+    componentDidMount() { };
 
     render() {
         return <div className="jamer">I am Jamer</div>;
