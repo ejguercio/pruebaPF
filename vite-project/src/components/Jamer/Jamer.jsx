@@ -9,4 +9,6 @@ export class Jamer extends React.Component {
         return <div className="jamer">I am Jamer</div>;
     };
 
+    componentDidMount();
+
 };
